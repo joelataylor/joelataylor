@@ -3,8 +3,8 @@
 ############################################
 
 # Required
-set :slack_subdomain, 'example' # if your Slack subdomain is example.slack.com
-set :slack_url, 'slack_token' # https://my.slack.com/services/new/incoming-webhook
+set :slack_subdomain, 'windfarmstudios' # if your Slack subdomain is example.slack.com
+set :slack_url, 'https://hooks.slack.com/services/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'
 
 # Optional
 set :slack_channel, '#general'
